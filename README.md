@@ -10,4 +10,4 @@ El Sistema Web “Para el apoyo de la transformación de tu negocio a digital”
 
 ## Objetivo
 
-Desarrollo de un sitio web con contenido claro y preciso, que sea realmente de utilidad para nuestro público. Con una interfaz sencilla y de fácil navegación, la cual permita al usuario localizar la información que necesita rápidamente. Para que de esta forma la página cumpla con su propósito, el cual es captar su atención y brindarle las herramientas necesarias para despegar su negocio en digital de la mano de los mejores expertos en el área.
+Desarrollo de un sitio web con contenido claro y preciso, que sea realmente de utilidad para nuestro público. Con una interfaz sencilla y de fácil navegación, la cual permita al usuario localizar la información que necesita rápidamente. Para que de esta forma la página cumpla con su propósito, el cual es captar su atención y brindarle las herramientas necesarias para despegar su negocio en digital de la mano de los mejores expertos en el área tecnologica.
